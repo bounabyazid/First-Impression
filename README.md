@@ -7,6 +7,4 @@ The main contributions of this work can be summarized in three points:
 2. A new algorithm for separating long text chunks.
 3. A new deep learning architecture for multi-branch personality traits estimation.
 
-![Alt Text](AUC_BiLSTM_Self_Att2.eps)
-![Alt Text](/AUC_BiLSTM_Self_Att2.eps)
-
+![](AUC_BiLSTM_Self_Att2.eps)
